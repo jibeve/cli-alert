@@ -2,9 +2,7 @@
     "name": "cli-alert",
     "version": "1.0.1",
     "description": "Cross platform cli-alert",
-    "bin": {
-        "jibeve": "index.js"
-    },
+    
     "devDependencies": {
         "prettier": "^2.4.1"
     },
