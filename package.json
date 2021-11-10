@@ -1,5 +1,5 @@
 {
-    "name": "cli-alertjib3v3",
+    "name": "cli-alert",
     "version": "1.0.0",
     "description": "Cross platform cli-alert",
     "bin": {
