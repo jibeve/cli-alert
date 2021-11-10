@@ -1,0 +1,36 @@
+{
+    "name": "cli-alertjib3v3",
+    "version": "1.0.0",
+    "description": "Cross platform cli-alert",
+    "bin": {
+        "jibeve": "index.js"
+    },
+    "devDependencies": {
+        "prettier": "^2.4.1"
+    },
+    "keywords": [
+        "cli-alert",
+        "jb",
+        "jib3v3",
+        "jibeve"
+    ],
+    "license": "MIT",
+    "main": "index.js",
+    "files": [
+        "index.js"
+    ],
+    "repository": "jibeve/cli-alert",
+    "author": {
+        "name": "Jean-Baptiste Voillemin",
+        "email": "jeanbaptiste.voillemin@gmail.com",
+        "url": "https://www.pixelforthemasses.com"
+    },
+    "dependencies": {
+        "chalk": "^4.1.2",
+        "log-symbols": "^4.0.0"
+    },
+    "scripts": {
+        "test": "node test.js",
+        "format": "prettier --write \"./**/*.{js.json}\""
+    }
+}
