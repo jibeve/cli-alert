@@ -1,5 +1,7 @@
 #cli-alert made with node js
 
+![cli-alert screenshot](./assets/screenshot.png)
+
 ## Install
 
 ```sh

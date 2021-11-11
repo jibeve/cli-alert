@@ -1,5 +1,5 @@
 {
-    "name": "cli-alerts",
+    "name": "cli-alert",
     "version": "1.0.3",
     "description": "Cross platform cli-alert",
     "devDependencies": {
