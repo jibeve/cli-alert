@@ -1,4 +1,5 @@
 #cli-alert made with node js
+### based on Ahmad Awais tutorial
 
 ![cli-alert screenshot](./assets/screenshot.png)
 
