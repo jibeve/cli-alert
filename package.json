@@ -1,6 +1,6 @@
 {
     "name": "cli-alert-jib3v3",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "description": "Cross platform cli-alert",
     "devDependencies": {
         "prettier": "^2.4.1"
